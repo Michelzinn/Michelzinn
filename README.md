@@ -1,4 +1,7 @@
-### Hi there 👋
+### Olá, bem vindo ao meu perfil 😄.
+### Comecei recentemente na programação. 
+### Atualmente estou buscando aprender python, vou postando meus exercícios por aqui!
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Michelzinn&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
