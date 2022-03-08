@@ -1,7 +1,7 @@
 ### Olá, bem vindo ao meu perfil 😄.
 ### Comecei recentemente na programação. 
 ### Atualmente estou buscando aprender python, vou postando meus exercícios por aqui!
-<img src="{https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue}" />
+![image]({https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue})
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Michelzinn&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
