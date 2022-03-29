@@ -1,6 +1,6 @@
 ### Olá, bem vindo ao meu perfil 😄.
-### Comecei recentemente na programação. 
-### Atualmente estou buscando aprender python, vou postando meus exercícios por aqui!
+### Comecei recentemente na programação, atualmente estou terminando minha graduação fora da área de t.i.
+### Atualmente estou buscando aprender python, vou postando meus exercícios e projetos por aqui!
 ![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Michelzinn&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
