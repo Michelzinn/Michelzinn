@@ -1,6 +1,6 @@
 ### Olá, bem vindo ao meu perfil 😄.
-### Comecei recentemente na programação, atualmente estou terminando minha graduação fora da área de t.i.
-### Sei um pouco de Python!
+### Atualmente trabalho com desenvolvimento web utilizando Ruby on Rails!
+
 ### No momento busco aprender Ruby on Rails e vou postando meus exercícios e projetos por aqui!
 ![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 
