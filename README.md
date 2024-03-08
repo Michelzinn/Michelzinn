@@ -2,7 +2,7 @@
 ### Atualmente trabalho com desenvolvimento web utilizando Ruby on Rails!
 
 ### No momento busco aprender Ruby on Rails e vou postando meus exercícios e projetos por aqui!
-![image](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
+[![image](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Michelzinn&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
