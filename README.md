@@ -10,6 +10,7 @@ Passionate about building scalable web applications and continuously improving a
 I specialize in backend development with Ruby on Rails, creating high-performance systems, RESTful APIs, and seamless integrations.
 
 Started my journey in tech in 2021 and have been consistently evolving both technically and professionally — always focused on solving real-world problems and delivering impact.
+I also love the gaming side of things, learning how they're a built is fun!
 
 ---
 
@@ -42,5 +43,3 @@ Started my journey in tech in 2021 and have been consistently evolving both tech
 
 ## 📫 Let's Connect
 - 💼 [LinkedIn](https://www.linkedin.com/in/michel-vasconcelos-8467151b3)
-- 💻 [GitHub](https://github.com/Michelzinn)
-- 🦊 [GitLab](https://gitlab.com/Michelzinn)
