@@ -38,12 +38,6 @@ Started my journey in tech in 2021 and have been consistently evolving both tech
 - Integrate external services (webhooks, Zapier, etc.)
 - Design scalable architectures and relational databases
 - Apply best practices (**Clean Code, MVC, REST**)
-
----
-
-## 📊 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Michelzinn&layout=compact&theme=dark&show_icons=true)
-
 ---
 
 ## 📫 Let's Connect
