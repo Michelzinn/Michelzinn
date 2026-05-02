@@ -1,20 +1,29 @@
-Ruby on Rails Developer! Currently working on a fintech!
+# 👨‍💻 Michel Vasconcelos
 
-![image](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
+🚀 Ruby on Rails Developer | Backend & Fullstack  
+💼 Currently working on a fintech  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Michelzinn&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+Passionate about building scalable web applications and continuously improving as a developer. I specialize in backend development with Ruby on Rails, creating high-performance systems, RESTful APIs, and seamless integrations.
 
-<!--
-**Michelzinn/Michelzinn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## ⚡ Tech Stack
+- Ruby on Rails
+- Hotwire (Turbo & Stimulus)
+- JavaScript (ES6+)
+- HTML5 & Tailwind CSS
+- PostgreSQL
+- Node.js (basic experience)
 
-Here are some ideas to get you started:
+## 🧩 What I Do
+- Build and maintain RESTful APIs
+- Integrate external services (webhooks, Zapier, etc.)
+- Design scalable architectures and database models
+- Apply best practices (Clean Code, MVC, REST)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Michelzinn&theme=dark)
+
+## 🌱 About Me
+Started my journey in tech in 2021 and have been consistently evolving ever since — both technically and professionally. I enjoy solving problems, collaborating with teams, and building products that make a real impact.
+
+## 📫 Let's Connect
+- Linkedin: https://www.linkedin.com/in/michel-vasconcelos-8467151b3
