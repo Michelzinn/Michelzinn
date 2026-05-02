@@ -1,4 +1,4 @@
-Ruby on Rails Developer!
+Ruby on Rails Developer! Currently working on a fintech!
 
 ![image](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
 
