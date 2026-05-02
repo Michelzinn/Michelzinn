@@ -1,7 +1,7 @@
 # 👨‍💻 Michel Vasconcelos
 
 🚀 Ruby on Rails Developer | Backend & Fullstack  
-💼 Currently working on a fintech  
+💼 Currently working for a fintech  
 
 Passionate about building scalable web applications and continuously improving as a developer. I specialize in backend development with Ruby on Rails, creating high-performance systems, RESTful APIs, and seamless integrations.
 
